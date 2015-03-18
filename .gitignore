@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+covevx
+jsdoc
+node_modules
